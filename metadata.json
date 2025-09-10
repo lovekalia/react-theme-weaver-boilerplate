@@ -1,0 +1,5 @@
+{
+  "name": "Theme Weaver: A React Theming System",
+  "description": "An advanced boilerplate for creating reusable, accessible, and dynamic theming systems in React. Features a clean provider/hook API, localStorage persistence, keyboard shortcuts, and a live component preview.",
+  "requestFramePermissions": []
+}
