@@ -45,6 +45,7 @@ const AppContent: React.FC = () => {
         case '4': setTheme(THEMES[3]); break;
         case '5': setTheme(THEMES[4]); break;
         case '6': setTheme(THEMES[5]); break;
+        case '7': setTheme(THEMES[6]); break;
       }
     };
 
@@ -67,7 +68,7 @@ const AppContent: React.FC = () => {
             Variable Themes
           </h1>
           <p className="m-0 p-0 leading-normal text-xl text-[var(--text-secondary)] transition-colors duration-500">
-            Cycle through 6 themes, from darkest to lightest.
+            Cycle through 7 themes, from darkest to lightest.
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4 my-8">

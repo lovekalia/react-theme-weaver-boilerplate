@@ -1,9 +1,8 @@
-
 import React from 'react';
 import type { Theme } from '../types';
 import { THEME_COLORS } from '../constants';
 import { useTheme } from '../context';
-import { DarkIcon, LightIcon, SunsetIcon, SunriseIcon, OceanIcon, ForestIcon } from './Icons';
+import { DarkIcon, LightIcon, SunsetIcon, SunriseIcon, OceanIcon, ForestIcon, NeonIcon } from './Icons';
 
 /**
  * The props for the ThemeBox component.
@@ -35,6 +34,7 @@ const getIcon = (theme: Theme) => {
     case 'light': return <LightIcon />;
     case 'ocean': return <OceanIcon />;
     case 'forest': return <ForestIcon />;
+    case 'neon': return <NeonIcon />;
   }
 };
 

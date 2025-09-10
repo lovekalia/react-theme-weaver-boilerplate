@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 /**
@@ -70,5 +69,17 @@ export const ForestIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <svg fill="currentColor" aria-hidden="true" viewBox="0 0 24 24" tabIndex={-1} {...props}>
       <title>Forest</title>
       <path d="M12 1.5A5.5 5.5 0 0 0 6.5 7a5.42 5.42 0 0 0 .15 1.34L3 12v3h5.5v6h2v-6H16v-3l-3.65-3.66A5.42 5.42 0 0 0 12.5 7a5.5 5.5 0 0 0-5.5-5.5z"></path>
+    </svg>
+);
+
+/**
+ * JSDoc comment for NeonIcon
+ * @param {React.SVGProps<SVGSVGElement>} props - React SVG props
+ * @returns {JSX.Element} - The NeonIcon component
+ */
+export const NeonIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
+    <svg fill="currentColor" aria-hidden="true" viewBox="0 0 24 24" tabIndex={-1} {...props}>
+      <title>Neon</title>
+      <path d="M7 2v11h3v9l7-12h-4l4-8z"></path>
     </svg>
 );

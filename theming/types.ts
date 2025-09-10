@@ -1,9 +1,8 @@
-
 /**
  * Defines the available theme names as a constant tuple.
  * Using `as const` creates a readonly type, preventing accidental modification.
  */
-export const THEMES = ['dark', 'sunset', 'sunrise', 'light', 'ocean', 'forest'] as const;
+export const THEMES = ['dark', 'sunset', 'sunrise', 'light', 'ocean', 'forest', 'neon'] as const;
 
 /**
  * Creates a union type `Theme` from the `THEMES` array.

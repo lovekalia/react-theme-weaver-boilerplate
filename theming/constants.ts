@@ -1,4 +1,3 @@
-
 import type { Theme, ThemeColors } from './types';
 
 /**
@@ -59,5 +58,14 @@ export const THEME_COLORS: Record<Theme, ThemeColors> = {
     'text-secondary': '#A29985',
     primary: '#588157',
     'text-inverse': '#F4F1DE',
+  },
+  neon: {
+    bg: '#0A0A0A',
+    border: '#2E0A4D',
+    surface: '#1A052E',
+    'text-primary': '#F0F0F0',
+    'text-secondary': '#A0A0A0',
+    primary: '#FF00FF',
+    'text-inverse': '#0A0A0A',
   },
 };

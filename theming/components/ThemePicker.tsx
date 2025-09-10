@@ -1,8 +1,7 @@
-
 import React from 'react';
 import type { Theme } from '../types';
 import { useTheme } from '../context';
-import { DarkIcon, LightIcon, SunsetIcon, SunriseIcon, OceanIcon, ForestIcon } from './Icons';
+import { DarkIcon, LightIcon, SunsetIcon, SunriseIcon, OceanIcon, ForestIcon, NeonIcon } from './Icons';
 
 /**
  * A helper function to capitalize the first letter of a string.
@@ -27,6 +26,7 @@ const getTopPositionClass = (theme: Theme): string => {
     case 'light': return 'top-[-10.8rem]';
     case 'ocean': return 'top-[-14.4rem]';
     case 'forest': return 'top-[-18rem]';
+    case 'neon': return 'top-[-21.6rem]';
     default: return 'top-0';
   }
 };
@@ -55,6 +55,7 @@ const ThemePicker: React.FC = () => {
           <LightIcon className="w-8 h-8 mb-[0.4rem]" />
           <OceanIcon className="w-8 h-8 mb-[0.4rem]" />
           <ForestIcon className="w-8 h-8 mb-[0.4rem]" />
+          <NeonIcon className="w-8 h-8 mb-[0.4rem]" />
         </div>
         <div className="absolute top-0 left-0 right-0 h-2 bg-gradient-to-b from-[var(--surface)] to-transparent z-10"></div>
         <div className="absolute bottom-0 left-0 right-0 h-2 bg-gradient-to-t from-[var(--surface)] to-transparent z-10"></div>
